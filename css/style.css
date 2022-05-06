@@ -1,0 +1,73 @@
+/********************TAG SELECTORS**********************/
+body{
+    background-color: blueviolet;
+}
+
+h1:hover{
+    
+    background-color: gold;
+ 
+}
+
+h1{
+    color :aqua;
+    background-color: #F66B0E;
+    font-size: 100px;
+}
+
+img:hover {
+
+    background-color: gold;
+
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: rgb(236, 12, 12);
+    border-width: 5px;
+    width: 100%;
+}
+
+/********************CLASS SELECTORS**********************/
+.p1{
+    color: aqua;
+}
+
+.p2{
+    color: aqua;
+}
+.p3{
+    color: aqua;
+}
+.burger
+{
+    background-color: pink;
+}
+.pizza {
+    background-color: #F66B0E;
+}
+.circular {
+    border-radius: 100%;
+}
+.fries {
+    background-color: green;
+}
+.ice-cream {
+    background-color: red;
+}
+
+.cocktail{
+    background-color: blue;  
+}
+/********************ID SELECTORS**********************/
+#heading
+ {
+    color: rgb(28, 43, 129);
+}
+
+
+
+
+
+
